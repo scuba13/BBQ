@@ -1,0 +1,14 @@
+#ifndef PIN_DEFINITIONS_H
+#define PIN_DEFINITIONS_H
+
+#define ENCODER_PIN1 26
+#define ENCODER_PIN2 25
+#define ENCODER_BUTTON 27
+
+#define MAX6675_SO 14
+#define MAX6675_CS 12
+#define MAX6675_SCK 13
+
+#define RELAY_PIN 2
+
+#endif // PIN_DEFINITIONS_H
